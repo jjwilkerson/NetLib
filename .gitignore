@@ -1,0 +1,9 @@
+.project
+.cproject
+Debug
+Release
+.settings
+html/
+latex/
+*.o
+*.a
