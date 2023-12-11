@@ -1,0 +1,13 @@
+<map id="netlib::BaseLayer" name="netlib::BaseLayer">
+<area shape="rect" id="node1" title="A base layer." alt="" coords="156,208,291,235"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1ActivationLayer2.html" title="An activation layer." alt="" coords="339,5,516,32"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1AddLayer.html" title="An addition layer." alt="" coords="363,56,491,83"/>
+<area shape="rect" id="node5" href="$classnetlib_1_1BatchNormLayer.html" title="A batch normalization layer." alt="" coords="339,107,515,133"/>
+<area shape="rect" id="node6" href="$classnetlib_1_1DenseLayer2.html" title="A densely&#45;connected layer." alt="" coords="351,157,503,184"/>
+<area shape="rect" id="node7" href="$classnetlib_1_1GruLayer.html" title="Declares GruLayer, a GRU layer." alt="" coords="364,208,491,235"/>
+<area shape="rect" id="node8" href="$classnetlib_1_1LayerNormLayer.html" title="A layer normalization layer." alt="" coords="340,259,515,285"/>
+<area shape="rect" id="node9" href="$classnetlib_1_1PadLayer.html" title="Pads its input to a given size." alt="" coords="364,309,491,336"/>
+<area shape="rect" id="node10" href="$classnetlib_1_1SplitLayer.html" title="Receives an input and passes it to two separate downstream classes." alt="" coords="361,360,493,387"/>
+<area shape="rect" id="node11" href="$classnetlib_1_1TruncateLayer.html" title="Truncates its input to a given size." alt="" coords="348,411,507,437"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="5,208,108,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="netlib::Layer" name="netlib::Layer">
+<area shape="rect" id="node1" title="The base class for layers." alt="" coords="191,96,293,123"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Network.html" title="Represents an entire network." alt="" coords="42,5,165,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="5,96,156,123"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1Nonlinearity.html" title="The base class for activation functions." alt="" coords="202,5,349,32"/>
+</map>

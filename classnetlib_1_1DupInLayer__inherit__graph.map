@@ -1,0 +1,4 @@
+<map id="netlib::DupInLayer" name="netlib::DupInLayer">
+<area shape="rect" id="node1" title="Declares DupInLayer class, which converts sequential data to singular data." alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="25,5,127,32"/>
+</map>

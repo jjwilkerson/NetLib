@@ -1,0 +1,5 @@
+<map id="layers/cores/TruncateCore.h" name="layers/cores/TruncateCore.h">
+<area shape="rect" id="node1" title="Declares TruncateCore class, a layer core that truncates its input to a given size." alt="" coords="125,5,327,32"/>
+<area shape="rect" id="node2" href="$TruncateCore_8cpp.html" title="Defines TruncateCore class, a layer core that truncates its input to a given size." alt="" coords="5,80,223,107"/>
+<area shape="rect" id="node3" href="$TruncateLayer_8cpp.html" title="Defines TruncateLayer class, which truncates its input to a given size." alt="" coords="247,80,429,107"/>
+</map>

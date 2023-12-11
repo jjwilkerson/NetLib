@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnetlib_1_1InputSource.html" title="A base class for sources of input for networks." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1SedInputSource.html" title="Serves sentences as input to a network." alt="" coords="197,5,365,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1VecInputSource.html" title="Serves vectors as input to a network." alt="" coords="198,56,365,83"/>
+</map>

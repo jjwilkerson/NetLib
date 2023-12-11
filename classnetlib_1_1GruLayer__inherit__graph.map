@@ -1,0 +1,5 @@
+<map id="netlib::GruLayer" name="netlib::GruLayer">
+<area shape="rect" id="node1" title="Declares GruLayer, a GRU layer." alt="" coords="9,155,136,181"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1BaseLayer.html" title="A base layer." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="21,5,124,32"/>
+</map>

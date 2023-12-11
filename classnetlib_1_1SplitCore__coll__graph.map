@@ -1,0 +1,4 @@
+<map id="netlib::SplitCore" name="netlib::SplitCore">
+<area shape="rect" id="node1" title="A layer core that receives an input and passes it to two separate downstream classes." alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Core.html" title="The base class for layer cores." alt="" coords="20,5,117,32"/>
+</map>

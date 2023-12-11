@@ -1,0 +1,4 @@
+<map id="input/SedInputSource.h" name="input/SedInputSource.h">
+<area shape="rect" id="node1" title="Declares SedInputSource class, which serves sentences as input to a network." alt="" coords="13,5,185,32"/>
+<area shape="rect" id="node2" href="$SedInputSource_8cpp.html" title="Defines SedInputSource class, which serves sentences as input to a network." alt="" coords="5,80,192,107"/>
+</map>

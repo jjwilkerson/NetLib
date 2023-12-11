@@ -1,0 +1,11 @@
+<map id="config/WeightInit.h" name="config/WeightInit.h">
+<area shape="rect" id="node1" title="Declares classes that initializes weights (model parameters)." alt="" coords="721,5,864,32"/>
+<area shape="rect" id="node2" href="$WeightInit_8cpp.html" title="Defines classes that initializes weights (model parameters)." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$BaseLayer_8cpp.html" title="Defines BaseLayer class, a base layer." alt="" coords="189,80,349,107"/>
+<area shape="rect" id="node4" href="$DenseCore_8cpp.html" title="Defines DenseLayer class, a densely&#45;connected layer core." alt="" coords="373,80,575,107"/>
+<area shape="rect" id="node5" href="$GruCore_8cpp.html" title="Defines GruCore, a GRU layer core." alt="" coords="600,80,785,107"/>
+<area shape="rect" id="node6" href="$DenseLayer_8cpp.html" title="Defines DenseLayer class, a densely&#45;connected layer." alt="" coords="809,80,979,107"/>
+<area shape="rect" id="node7" href="$RecDTR2nLayer_8cpp.html" title="Defines RecDTR2nLayer class, a residual&#45;recurrent layer." alt="" coords="1003,80,1198,107"/>
+<area shape="rect" id="node8" href="$RecLayer_8cpp.html" title="Defines RecLayer class, a recurrent layer." alt="" coords="1222,80,1374,107"/>
+<area shape="rect" id="node9" href="$Network_8cpp.html" title="Defines Network class, which represents an entire network." alt="" coords="1398,80,1502,107"/>
+</map>

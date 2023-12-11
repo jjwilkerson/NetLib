@@ -1,0 +1,4 @@
+<map id="netlib::CosineSim" name="netlib::CosineSim">
+<area shape="rect" id="node1" title="Implements the cosine sim loss function." alt="" coords="13,80,149,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="5,5,156,32"/>
+</map>

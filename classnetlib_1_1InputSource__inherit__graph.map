@@ -1,0 +1,5 @@
+<map id="netlib::InputSource" name="netlib::InputSource">
+<area shape="rect" id="node1" title="A base class for sources of input for networks." alt="" coords="113,5,257,32"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1SedInputSource.html" title="Serves sentences as input to a network." alt="" coords="5,80,173,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1VecInputSource.html" title="Serves vectors as input to a network." alt="" coords="198,80,365,107"/>
+</map>

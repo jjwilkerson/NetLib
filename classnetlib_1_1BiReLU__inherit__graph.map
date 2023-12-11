@@ -1,0 +1,4 @@
+<map id="netlib::BiReLU" name="netlib::BiReLU">
+<area shape="rect" id="node1" title="Implements the bi&#45;ReLU activation function." alt="" coords="21,80,136,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Nonlinearity.html" title="The base class for activation functions." alt="" coords="5,5,152,32"/>
+</map>

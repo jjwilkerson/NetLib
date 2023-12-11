@@ -1,0 +1,5 @@
+<map id="netlib::BatchNormLayer" name="netlib::BatchNormLayer">
+<area shape="rect" id="node1" title="A batch normalization layer." alt="" coords="5,155,181,181"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1BaseLayer.html" title="A base layer." alt="" coords="26,80,161,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="42,5,145,32"/>
+</map>

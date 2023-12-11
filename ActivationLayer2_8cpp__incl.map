@@ -1,0 +1,13 @@
+<map id="layers/ActivationLayer2.cpp" name="layers/ActivationLayer2.cpp">
+<area shape="rect" id="node1" title="Defines ActivationLayer2 class, an activation layer." alt="" coords="146,5,349,32"/>
+<area shape="rect" id="node2" href="$ActivationLayer2_8h.html" title="Declares ActivationLayer2 class, an activation layer." alt="" coords="266,80,410,107"/>
+<area shape="rect" id="node10" href="$ActivationCore_8h.html" title="Declares ActivationCore class, an activation layer core." alt="" coords="72,80,241,107"/>
+<area shape="rect" id="node3" href="$BaseLayer_8h.html" title="Declares BaseLayer class, a base layer." alt="" coords="281,155,382,181"/>
+<area shape="rect" id="node4" href="$Layer_8h.html" title="Declares Layer class, the base class for layers." alt="" coords="291,229,361,256"/>
+<area shape="rect" id="node5" href="$NetLib_8h.html" title="Holds global function and constant definitions." alt="" coords="107,304,195,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="226,379,285,405"/>
+<area shape="rect" id="node9" title=" " alt="" coords="270,304,369,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,379,76,405"/>
+<area shape="rect" id="node8" title=" " alt="" coords="101,379,202,405"/>
+<area shape="rect" id="node11" href="$Core_8h.html" title="Declares Core class, the base class for layer cores." alt="" coords="193,229,257,256"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="input/Corrector.h" name="input/Corrector.h">
+<area shape="rect" id="node1" title="Declares Corrector class, which corrects common spelling errors in an input corpus." alt="" coords="98,5,229,32"/>
+<area shape="rect" id="node2" href="$Corrector_8cpp.html" title="Defines Corrector class, which corrects common spelling errors in an input corpus." alt="" coords="5,80,151,107"/>
+<area shape="rect" id="node3" href="$WvParser_8cpp.html" title="Defines WvParser class, which iterates over a corpus of sentences." alt="" coords="175,80,322,107"/>
+</map>

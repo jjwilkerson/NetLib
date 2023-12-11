@@ -1,0 +1,13 @@
+<map id="nonlinearity/Nonlinearity.h" name="nonlinearity/Nonlinearity.h">
+<area shape="rect" id="node1" title="Declares classes that implement activation functions." alt="" coords="913,5,1108,32"/>
+<area shape="rect" id="node2" href="$ActivationLayer_8cpp.html" title="Defines ActivationLayer class, an activation layer." alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$BaseLayer_8cpp.html" title="Defines BaseLayer class, a base layer." alt="" coords="224,80,384,107"/>
+<area shape="rect" id="node4" href="$ActivationCore_8cpp.html" title="Defines ActivationCore class, an activation layer core." alt="" coords="409,80,637,107"/>
+<area shape="rect" id="node5" href="$DenseLayer_8cpp.html" title="Defines DenseLayer class, a densely&#45;connected layer." alt="" coords="661,80,830,107"/>
+<area shape="rect" id="node6" href="$Layer_8cpp.html" title="Defines Layer class, the base class for layers." alt="" coords="855,80,983,107"/>
+<area shape="rect" id="node7" href="$RecDTR2nLayer_8cpp.html" title="Defines RecDTR2nLayer class, a residual&#45;recurrent layer." alt="" coords="1007,80,1201,107"/>
+<area shape="rect" id="node8" href="$RecLayer_8cpp.html" title="Defines RecLayer class, a recurrent layer." alt="" coords="1225,80,1377,107"/>
+<area shape="rect" id="node9" href="$SeqInputLayer_8cpp.html" title="Defines SeqInputLayer class, an input layer that handles sequential data." alt="" coords="1402,80,1587,107"/>
+<area shape="rect" id="node10" href="$VecInputLayer_8cpp.html" title="Defines VecInputLayer class, an input layer that handles singular (not sequential) data." alt="" coords="1612,80,1796,107"/>
+<area shape="rect" id="node11" href="$Nonlinearity_8cpp.html" title="Defines classes that implement activation functions." alt="" coords="1821,80,2030,107"/>
+</map>

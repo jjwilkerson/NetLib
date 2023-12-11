@@ -1,0 +1,4 @@
+<map id="netlib::Softmax" name="netlib::Softmax">
+<area shape="rect" id="node1" title="Implements the softmax activation function." alt="" coords="18,80,139,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Nonlinearity.html" title="The base class for activation functions." alt="" coords="5,5,152,32"/>
+</map>

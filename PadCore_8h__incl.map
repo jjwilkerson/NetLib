@@ -1,0 +1,9 @@
+<map id="layers/cores/PadCore.h" name="layers/cores/PadCore.h">
+<area shape="rect" id="node1" title="Declares PadLayer class, a layer core that pads its input to a given size." alt="" coords="166,5,337,32"/>
+<area shape="rect" id="node2" href="$Core_8h.html" title="Declares Core class, the base class for layer cores." alt="" coords="219,80,283,107"/>
+<area shape="rect" id="node3" href="$NetLib_8h.html" title="Holds global function and constant definitions." alt="" coords="109,155,209,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="226,229,285,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="289,155,387,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,229,76,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="101,229,202,256"/>
+</map>

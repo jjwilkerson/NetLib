@@ -1,0 +1,5 @@
+<map id="input/Tokenizer.h" name="input/Tokenizer.h">
+<area shape="rect" id="node1" title="Declares Tokenizer class, which tokenizes sentences and replaces digit symbols with words." alt="" coords="99,5,229,32"/>
+<area shape="rect" id="node2" href="$Tokenizer_8cpp.html" title="Defines Tokenizer class, which tokenizes sentences and replaces digit symbols with words." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$WvParser_8cpp.html" title="Defines WvParser class, which iterates over a corpus of sentences." alt="" coords="176,80,323,107"/>
+</map>

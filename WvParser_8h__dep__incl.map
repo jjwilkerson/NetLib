@@ -1,0 +1,7 @@
+<map id="input/WvParser.h" name="input/WvParser.h">
+<area shape="rect" id="node1" title="Declares WvParser class, which iterates over a corpus of sentences." alt="" coords="236,5,367,32"/>
+<area shape="rect" id="node2" href="$WvCorpusIterator_8h.html" title="Declares WvCorpusIterator class, which iterates over a corpus of sentences." alt="" coords="115,80,299,107"/>
+<area shape="rect" id="node5" href="$WvParser_8cpp.html" title="Defines WvParser class, which iterates over a corpus of sentences." alt="" coords="323,80,469,107"/>
+<area shape="rect" id="node3" href="$SedInputSource_8cpp.html" title="Defines SedInputSource class, which serves sentences as input to a network." alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node4" href="$WvCorpusIterator_8cpp.html" title="Defines WvCorpusIterator class, which iterates over a corpus of sentences." alt="" coords="217,155,415,181"/>
+</map>

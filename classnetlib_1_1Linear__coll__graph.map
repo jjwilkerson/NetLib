@@ -1,0 +1,4 @@
+<map id="netlib::Linear" name="netlib::Linear">
+<area shape="rect" id="node1" title="Implements the linear (identity) activation function." alt="" coords="25,80,132,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Nonlinearity.html" title="The base class for activation functions." alt="" coords="5,5,152,32"/>
+</map>

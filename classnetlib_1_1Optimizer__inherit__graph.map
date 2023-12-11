@@ -1,0 +1,4 @@
+<map id="netlib::Optimizer" name="netlib::Optimizer">
+<area shape="rect" id="node1" title="The base class for optimizers." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Adam.html" title="An ADAM optimizer." alt="" coords="18,80,123,107"/>
+</map>

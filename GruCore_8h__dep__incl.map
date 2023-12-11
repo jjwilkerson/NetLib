@@ -1,0 +1,5 @@
+<map id="layers/cores/GruCore.h" name="layers/cores/GruCore.h">
+<area shape="rect" id="node1" title="Declares GruCore, a GRU layer core." alt="" coords="109,5,279,32"/>
+<area shape="rect" id="node2" href="$GruCore_8cpp.html" title="Defines GruCore, a GRU layer core." alt="" coords="5,80,191,107"/>
+<area shape="rect" id="node3" href="$GruLayer_8cpp.html" title="Defines GruLayer, a GRU layer." alt="" coords="215,80,365,107"/>
+</map>

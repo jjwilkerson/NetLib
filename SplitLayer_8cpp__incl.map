@@ -1,0 +1,13 @@
+<map id="layers/SplitLayer.cpp" name="layers/SplitLayer.cpp">
+<area shape="rect" id="node1" title="Defines SplitLayer class, which receives an input and passes it to two separate downstream classes." alt="" coords="182,5,339,32"/>
+<area shape="rect" id="node2" href="$SplitLayer_8h.html" title="Declares SplitLayer class, which receives an input and passes it to two separate downstream classes." alt="" coords="282,80,381,107"/>
+<area shape="rect" id="node10" href="$SplitCore_8h.html" title="Declares SplitCore class, a layer core that receives an input and passes it to two separate downstrea..." alt="" coords="125,80,257,107"/>
+<area shape="rect" id="node3" href="$BaseLayer_8h.html" title="Declares BaseLayer class, a base layer." alt="" coords="277,155,378,181"/>
+<area shape="rect" id="node4" href="$Layer_8h.html" title="Declares Layer class, the base class for layers." alt="" coords="290,229,359,256"/>
+<area shape="rect" id="node5" href="$NetLib_8h.html" title="Holds global function and constant definitions." alt="" coords="107,304,195,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="226,379,285,405"/>
+<area shape="rect" id="node9" title=" " alt="" coords="270,304,369,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,379,76,405"/>
+<area shape="rect" id="node8" title=" " alt="" coords="101,379,202,405"/>
+<area shape="rect" id="node11" href="$Core_8h.html" title="Declares Core class, the base class for layer cores." alt="" coords="195,229,259,256"/>
+</map>

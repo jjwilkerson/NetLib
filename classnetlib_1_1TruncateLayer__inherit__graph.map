@@ -1,0 +1,5 @@
+<map id="netlib::TruncateLayer" name="netlib::TruncateLayer">
+<area shape="rect" id="node1" title="Truncates its input to a given size." alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1BaseLayer.html" title="A base layer." alt="" coords="17,80,152,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="33,5,136,32"/>
+</map>

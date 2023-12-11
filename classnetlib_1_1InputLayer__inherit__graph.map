@@ -1,0 +1,7 @@
+<map id="netlib::InputLayer" name="netlib::InputLayer">
+<area shape="rect" id="node1" title="The base class for input layers." alt="" coords="225,80,361,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1PointerInputLayer.html" title="An input layer that has its input directly set via a pointer." alt="" coords="5,155,188,181"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1SeqInputLayer.html" title="An input layer that handles sequential data." alt="" coords="213,155,373,181"/>
+<area shape="rect" id="node5" href="$classnetlib_1_1VecInputLayer.html" title="An input layer that handles singular (not sequential) data." alt="" coords="397,155,556,181"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="241,5,344,32"/>
+</map>

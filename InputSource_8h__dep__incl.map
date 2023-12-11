@@ -1,0 +1,9 @@
+<map id="input/InputSource.h" name="input/InputSource.h">
+<area shape="rect" id="node1" title="Declares InputSource, a base class for sources of input for networks." alt="" coords="302,5,450,32"/>
+<area shape="rect" id="node2" href="$InputSource_8cpp.html" title="Defines InputSource, a base class for sources of input for networks." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$SedInputSource_8h.html" title="Declares SedInputSource class, which serves sentences as input to a network." alt="" coords="193,80,365,107"/>
+<area shape="rect" id="node5" href="$VecInputSource_8h.html" title="Declares VecInputSource class, which serves vectors as input to a network." alt="" coords="389,80,560,107"/>
+<area shape="rect" id="node7" href="$Network_8cpp.html" title="Defines Network class, which represents an entire network." alt="" coords="584,80,688,107"/>
+<area shape="rect" id="node4" href="$SedInputSource_8cpp.html" title="Defines SedInputSource class, which serves sentences as input to a network." alt="" coords="177,155,364,181"/>
+<area shape="rect" id="node6" href="$VecInputSource_8cpp.html" title="Defines VecInputSource class, which serves vectors as input to a network." alt="" coords="388,155,575,181"/>
+</map>

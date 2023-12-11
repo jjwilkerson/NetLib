@@ -1,0 +1,4 @@
+<map id="netlib::LossSet" name="netlib::LossSet">
+<area shape="rect" id="node1" title="Wrapper for a set of loss functions." alt="" coords="22,80,139,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="5,5,156,32"/>
+</map>

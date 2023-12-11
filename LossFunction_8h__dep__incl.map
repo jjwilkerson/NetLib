@@ -1,0 +1,11 @@
+<map id="loss/LossFunction.h" name="loss/LossFunction.h">
+<area shape="rect" id="node1" title="Declares classes that implement loss functions." alt="" coords="725,5,873,32"/>
+<area shape="rect" id="node2" href="$ActivationLayer_8cpp.html" title="Defines ActivationLayer class, an activation layer." alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$BaseLayer_8cpp.html" title="Defines BaseLayer class, a base layer." alt="" coords="224,80,384,107"/>
+<area shape="rect" id="node4" href="$DenseLayer_8cpp.html" title="Defines DenseLayer class, a densely&#45;connected layer." alt="" coords="409,80,578,107"/>
+<area shape="rect" id="node5" href="$RecDTR2nLayer_8cpp.html" title="Defines RecDTR2nLayer class, a residual&#45;recurrent layer." alt="" coords="603,80,797,107"/>
+<area shape="rect" id="node6" href="$RecLayer_8cpp.html" title="Defines RecLayer class, a recurrent layer." alt="" coords="821,80,973,107"/>
+<area shape="rect" id="node7" href="$LossFunction_8cpp.html" title="Defines classes that implement loss functions." alt="" coords="997,80,1160,107"/>
+<area shape="rect" id="node8" href="$Network_8cpp.html" title="Defines Network class, which represents an entire network." alt="" coords="1184,80,1288,107"/>
+<area shape="rect" id="node9" href="$Adam_8cpp.html" title="Defines Adam class, an ADAM optimizer." alt="" coords="1312,80,1472,107"/>
+</map>

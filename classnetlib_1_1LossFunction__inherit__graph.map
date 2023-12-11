@@ -1,0 +1,8 @@
+<map id="netlib::LossFunction" name="netlib::LossFunction">
+<area shape="rect" id="node1" title="Base class for loss functions." alt="" coords="5,107,156,133"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1CosineSim.html" title="Implements the cosine sim loss function." alt="" coords="231,5,367,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1CrossEntropy.html" title="Implements the cross&#45;entropy loss function." alt="" coords="222,56,375,83"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1LossSet.html" title="Wrapper for a set of loss functions." alt="" coords="240,107,357,133"/>
+<area shape="rect" id="node5" href="$classnetlib_1_1SquaredError.html" title="Implements the squared error loss function." alt="" coords="223,157,374,184"/>
+<area shape="rect" id="node6" href="$classnetlib_1_1StructuralDamping.html" title="Implements structural damping as a loss function." alt="" coords="204,208,393,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="netlib::ActivationLayer2" name="netlib::ActivationLayer2">
+<area shape="rect" id="node1" title="An activation layer." alt="" coords="5,155,183,181"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1BaseLayer.html" title="A base layer." alt="" coords="27,80,161,107"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="43,5,145,32"/>
+</map>

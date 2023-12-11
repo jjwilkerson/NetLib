@@ -1,0 +1,9 @@
+<map id="netlib::Nonlinearity" name="netlib::Nonlinearity">
+<area shape="rect" id="node1" title="The base class for activation functions." alt="" coords="5,132,152,159"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1BiReLU.html" title="Implements the bi&#45;ReLU activation function." alt="" coords="219,5,333,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1LeakyBiReLU.html" title="Implements the leaky bi&#45;ReLU activation function." alt="" coords="200,56,352,83"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1LeakyReLU.html" title="Implements the leaky ReLU activation function." alt="" coords="207,107,345,133"/>
+<area shape="rect" id="node5" href="$classnetlib_1_1Linear.html" title="Implements the linear (identity) activation function." alt="" coords="223,157,329,184"/>
+<area shape="rect" id="node6" href="$classnetlib_1_1Softmax.html" title="Implements the softmax activation function." alt="" coords="215,208,337,235"/>
+<area shape="rect" id="node7" href="$classnetlib_1_1Tanh.html" title="Implements the tanh activation function." alt="" coords="227,259,325,285"/>
+</map>

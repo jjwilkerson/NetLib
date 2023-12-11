@@ -1,0 +1,4 @@
+<map id="layers/TruncateLayer.h" name="layers/TruncateLayer.h">
+<area shape="rect" id="node1" title="Declares TruncateLayer class, which truncates its input to a given size." alt="" coords="13,5,181,32"/>
+<area shape="rect" id="node2" href="$TruncateLayer_8cpp.html" title="Defines TruncateLayer class, which truncates its input to a given size." alt="" coords="5,80,188,107"/>
+</map>

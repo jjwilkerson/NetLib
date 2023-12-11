@@ -1,0 +1,5 @@
+<map id="layers/cores/AddCore.h" name="layers/cores/AddCore.h">
+<area shape="rect" id="node1" title="Declares AddCore class, an addition layer core." alt="" coords="93,5,265,32"/>
+<area shape="rect" id="node2" href="$AddLayer_8cpp.html" title="Defines AddLayer class, an addition layer." alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$AddCore_8cpp.html" title="Defines AddCore class, an addition layer core." alt="" coords="183,80,370,107"/>
+</map>

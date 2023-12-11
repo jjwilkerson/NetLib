@@ -1,0 +1,4 @@
+<map id="netlib::Network" name="netlib::Network">
+<area shape="rect" id="node1" title="Represents an entire network." alt="" coords="19,5,142,32"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="5,95,156,121"/>
+</map>

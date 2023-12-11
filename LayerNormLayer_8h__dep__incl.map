@@ -1,0 +1,4 @@
+<map id="layers/LayerNormLayer.h" name="layers/LayerNormLayer.h">
+<area shape="rect" id="node1" title="Declares LayerNormLayer class, a layer normalization layer." alt="" coords="13,5,198,32"/>
+<area shape="rect" id="node2" href="$LayerNormLayer_8cpp.html" title="Defines LayerNormLayer class, a layer normalization layer." alt="" coords="5,80,205,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="layers/cores/SplitCore.h" name="layers/cores/SplitCore.h">
+<area shape="rect" id="node1" title="Declares SplitCore class, a layer core that receives an input and passes it to two separate downstrea..." alt="" coords="111,5,287,32"/>
+<area shape="rect" id="node2" href="$SplitCore_8cpp.html" title="Defines SplitCore class, a layer core that receives an input and passes it to two separate downstream..." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node3" href="$SplitLayer_8cpp.html" title="Defines SplitLayer class, which receives an input and passes it to two separate downstream classes." alt="" coords="221,80,378,107"/>
+</map>

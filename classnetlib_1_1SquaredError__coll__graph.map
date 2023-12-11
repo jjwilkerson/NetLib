@@ -1,0 +1,5 @@
+<map id="netlib::SquaredError" name="netlib::SquaredError">
+<area shape="rect" id="node1" title="Implements the squared error loss function." alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="51,5,201,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Network.html" title="Represents an entire network." alt="" coords="181,95,303,121"/>
+</map>

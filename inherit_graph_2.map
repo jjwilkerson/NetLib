@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnetlib_1_1CorpusIterator.html" title="A base class for objects that iterate over an input corpus." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1WvCorpusIterator.html" title="Iterates over a corpus of sentences." alt="" coords="213,5,395,32"/>
+</map>

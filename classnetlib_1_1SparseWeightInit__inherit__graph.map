@@ -1,0 +1,4 @@
+<map id="netlib::SparseWeightInit" name="netlib::SparseWeightInit">
+<area shape="rect" id="node1" title="Initializes weights (model parameters) with the sparse initialization scheme." alt="" coords="5,80,183,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1WeightInit.html" title="Base class for classes that initializes weights (model parameters)." alt="" coords="27,5,161,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="optimizers/Optimizer.h" name="optimizers/Optimizer.h">
+<area shape="rect" id="node1" title="Declares the Optimizer class, the base class for optimizers." alt="" coords="95,5,265,32"/>
+<area shape="rect" id="node2" href="$Adam_8h.html" title="Declares Adam class, an ADAM optimizer." alt="" coords="13,80,158,107"/>
+<area shape="rect" id="node4" href="$Optimizer_8cpp.html" title="Defines the Optimizer class, the base class for optimizers." alt="" coords="182,80,367,107"/>
+<area shape="rect" id="node3" href="$Adam_8cpp.html" title="Defines Adam class, an ADAM optimizer." alt="" coords="5,155,165,181"/>
+</map>

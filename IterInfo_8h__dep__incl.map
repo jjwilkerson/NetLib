@@ -1,0 +1,6 @@
+<map id="state/IterInfo.h" name="state/IterInfo.h">
+<area shape="rect" id="node1" title="Declares the IterInfo class, which encapsulates and saves iteration information." alt="" coords="223,5,342,32"/>
+<area shape="rect" id="node2" href="$Adam_8cpp.html" title="Defines Adam class, an ADAM optimizer." alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node3" href="$Optimizer_8cpp.html" title="Defines the Optimizer class, the base class for optimizers." alt="" coords="190,80,375,107"/>
+<area shape="rect" id="node4" href="$IterInfo_8cpp.html" title="Defines the IterInfo class, which encapsulates and saves iteration information." alt="" coords="400,80,533,107"/>
+</map>

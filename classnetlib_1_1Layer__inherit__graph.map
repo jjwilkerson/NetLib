@@ -1,0 +1,24 @@
+<map id="netlib::Layer" name="netlib::Layer">
+<area shape="rect" id="node1" title="The base class for layers." alt="" coords="5,385,108,412"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1ActivationLayer.html" title="An activation layer." alt="" coords="157,183,326,209"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1BaseLayer.html" title="A base layer." alt="" coords="174,233,309,260"/>
+<area shape="rect" id="node13" href="$classnetlib_1_1ConcatLayer.html" title="A concatenation layer." alt="" coords="167,284,315,311"/>
+<area shape="rect" id="node14" href="$classnetlib_1_1DenseLayer.html" title="A densely&#45;connected layer." alt="" coords="169,335,313,361"/>
+<area shape="rect" id="node15" href="$classnetlib_1_1DupInLayer.html" title="Declares DupInLayer class, which converts sequential data to singular data." alt="" coords="171,385,312,412"/>
+<area shape="rect" id="node16" href="$classnetlib_1_1DupOutLayer.html" title="Declares DupOutLayer class, which converts singular data to sequential data." alt="" coords="165,436,317,463"/>
+<area shape="rect" id="node17" href="$classnetlib_1_1InputLayer.html" title="The base class for input layers." alt="" coords="173,487,309,513"/>
+<area shape="rect" id="node21" href="$classnetlib_1_1RecDTR2nLayer.html" title="A residual&#45;recurrent layer." alt="" coords="156,537,327,564"/>
+<area shape="rect" id="node22" href="$classnetlib_1_1RecLayer.html" title="A recurrent layer." alt="" coords="178,588,305,615"/>
+<area shape="rect" id="node4" href="$classnetlib_1_1ActivationLayer2.html" title="An activation layer." alt="" coords="377,5,555,32"/>
+<area shape="rect" id="node5" href="$classnetlib_1_1AddLayer.html" title="An addition layer." alt="" coords="402,56,530,83"/>
+<area shape="rect" id="node6" href="$classnetlib_1_1BatchNormLayer.html" title="A batch normalization layer." alt="" coords="378,107,554,133"/>
+<area shape="rect" id="node7" href="$classnetlib_1_1DenseLayer2.html" title="A densely&#45;connected layer." alt="" coords="390,157,542,184"/>
+<area shape="rect" id="node8" href="$classnetlib_1_1GruLayer.html" title="Declares GruLayer, a GRU layer." alt="" coords="403,208,529,235"/>
+<area shape="rect" id="node9" href="$classnetlib_1_1LayerNormLayer.html" title="A layer normalization layer." alt="" coords="379,259,553,285"/>
+<area shape="rect" id="node10" href="$classnetlib_1_1PadLayer.html" title="Pads its input to a given size." alt="" coords="403,309,529,336"/>
+<area shape="rect" id="node11" href="$classnetlib_1_1SplitLayer.html" title="Receives an input and passes it to two separate downstream classes." alt="" coords="400,360,532,387"/>
+<area shape="rect" id="node12" href="$classnetlib_1_1TruncateLayer.html" title="Truncates its input to a given size." alt="" coords="387,411,545,437"/>
+<area shape="rect" id="node18" href="$classnetlib_1_1PointerInputLayer.html" title="An input layer that has its input directly set via a pointer." alt="" coords="375,461,557,488"/>
+<area shape="rect" id="node19" href="$classnetlib_1_1SeqInputLayer.html" title="An input layer that handles sequential data." alt="" coords="386,512,546,539"/>
+<area shape="rect" id="node20" href="$classnetlib_1_1VecInputLayer.html" title="An input layer that handles singular (not sequential) data." alt="" coords="387,563,545,589"/>
+</map>

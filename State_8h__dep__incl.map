@@ -1,0 +1,5 @@
+<map id="state/State.h" name="state/State.h">
+<area shape="rect" id="node1" title="Declares the State class, which encapsulates, saves, and loads program state." alt="" coords="94,5,199,32"/>
+<area shape="rect" id="node2" href="$Config_8cpp.html" title="Defines Config class, which saves, loads and encapsulates configuration parameters." alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$State_8cpp.html" title="Defines the State class, which encapsulates, saves, and loads program state." alt="" coords="163,80,283,107"/>
+</map>

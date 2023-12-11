@@ -1,0 +1,4 @@
+<map id="netlib::ConcatLayer" name="netlib::ConcatLayer">
+<area shape="rect" id="node1" title="A concatenation layer." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1Layer.html" title="The base class for layers." alt="" coords="28,5,131,32"/>
+</map>

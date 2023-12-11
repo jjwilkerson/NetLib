@@ -1,0 +1,5 @@
+<map id="layers/cores/BatchNormCore.h" name="layers/cores/BatchNormCore.h">
+<area shape="rect" id="node1" title="Declares BatchNormCore class, a batch normalization layer core." alt="" coords="117,5,337,32"/>
+<area shape="rect" id="node2" href="$BatchNormLayer_8cpp.html" title="Defines BatchNormLayer class, a batch normalization layer." alt="" coords="5,80,207,107"/>
+<area shape="rect" id="node3" href="$BatchNormCore_8cpp.html" title="Defines BatchNormCore class, a batch normalization layer core." alt="" coords="231,80,466,107"/>
+</map>

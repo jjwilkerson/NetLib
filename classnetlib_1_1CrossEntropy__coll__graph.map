@@ -1,0 +1,5 @@
+<map id="netlib::CrossEntropy" name="netlib::CrossEntropy">
+<area shape="rect" id="node1" title="Implements the cross&#45;entropy loss function." alt="" coords="5,95,159,121"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="53,5,204,32"/>
+<area shape="rect" id="node3" href="$classnetlib_1_1Network.html" title="Represents an entire network." alt="" coords="183,95,306,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="netlib::StructuralDamping" name="netlib::StructuralDamping">
+<area shape="rect" id="node1" title="Implements structural damping as a loss function." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node2" href="$classnetlib_1_1LossFunction.html" title="Base class for loss functions." alt="" coords="25,5,175,32"/>
+</map>
