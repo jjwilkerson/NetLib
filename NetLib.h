@@ -12,7 +12,7 @@
 #include <cuda_fp16.h>
 
 //#define DEBUG 1
-//#define SINGLE_HALF 1
+#define SINGLE_HALF 1
 //#define SINGLE_ASINGLE_HALF 1
 //#define HALF 1
 
